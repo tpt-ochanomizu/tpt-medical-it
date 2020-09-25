@@ -8,7 +8,7 @@
 
 title: T/T
 description: Medical/Dental students playing with Information Technologies and Mathematics.
-github_username: Vintea01
+github_username: tpt-ochanomizu
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "tpt-medical-it"
 
@@ -40,7 +40,7 @@ baseurl: "/tpt-medical-it" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: tpt_ochanomizu
-    github: Vintea01
+    github: tpt-ochanomizu
 
 # Set this to true to get LaTeX math equation support
 use_math: true
