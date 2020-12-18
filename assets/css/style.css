@@ -484,4 +484,8 @@ h1 { background-color: aquamarine; }
 
 .highlight .gd { color: #ff5555; }
 
+.mjx-chtml { max-width: 100%; overflow-x: auto; overflow-y: hidden; }
+
+.katex-html { max-width: 100%; overflow-x: auto; overflow-y: hidden; }
+
 /*# sourceMappingURL=style.css.map */
